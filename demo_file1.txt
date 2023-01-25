@@ -5,3 +5,5 @@ Welcome to git!!
 Now that we have commited the file let us add one more line
 
 Another Line
+
+This line was addded in the feature1 branch 
